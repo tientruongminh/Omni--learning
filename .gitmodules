@@ -1,0 +1,3 @@
+[submodule "GitChat"]
+	path = GitChat
+	url = git@github.com:DrustZ/GitChat.git
